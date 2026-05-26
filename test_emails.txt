@@ -1,0 +1,27 @@
+=== PHISHING EMAIL EXAMPLES ===
+
+1. Subject: URGENT: Account Verification Required
+   Body: Dear User, Your account has been suspended. Verify now: http://bit.ly/verify-account
+
+2. Subject: Your PayPal Account Has Been Limited
+   Body: We noticed unusual activity. Confirm your identity: https://paypal-security.com/login
+
+3. Subject: CONGRATULATIONS! You've Won an iPhone!
+   Body: Click here to claim your prize: http://prize-winner.xyz/claim
+
+4. Subject: Security Alert: Password Expiring Soon
+   Body: Update your password immediately: http://secure-login.net/update
+
+=== LEGITIMATE EMAIL EXAMPLES ===
+
+5. Subject: Weekly Team Meeting - Friday 2 PM
+   Body: Hi team, Let's discuss the project progress. Join via Google Meet.
+
+6. Subject: Your Amazon Order Confirmation #ORD-12345
+   Body: Your order has been confirmed and will ship soon.
+
+7. Subject: Newsletter: March 2025 Updates
+   Body: Check out our latest features and improvements.
+
+8. Subject: Invoice #INV-2025-001 from Microsoft
+   Body: Your subscription invoice is attached. Payment due in 15 days.
